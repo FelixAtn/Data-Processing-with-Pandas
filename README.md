@@ -47,10 +47,6 @@ This project was created as part of my **Software Engineering** studies module t
     python data_processing_script.py
     ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - **Felix Atanasescu**  
